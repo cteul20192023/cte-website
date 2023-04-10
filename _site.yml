@@ -1,8 +1,9 @@
 name: "."
-title: "cte-website"
+title: "Home"
 description: |
   cte-website
 output_dir: "docs"
+theme: cte-theme.css
 navbar:
   right:
     - text: "Home"
