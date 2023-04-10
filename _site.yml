@@ -6,8 +6,24 @@ output_dir: "docs"
 theme: cte-theme.css
 navbar:
   right:
-    - text: "Home"
-      href: index.html
     - text: "About"
       href: about.html
+    - text: "Entrance Results"
+      menu: 
+       - text: "2019 First Entrance"
+         href: rmarkdown1.html
+       - text: "2019 Second Entrance"
+         href: rmarkdown2.html
+       - text: "2020 First Entrance"
+         href: rmarkdown3.html
+       - text: "2020 Second Entrance"
+         href: rmarkdown4.html
+       - text: "2021 First Entrance"
+         href: rmarkdown5.html
+       - text: "2021 Second Entrance"
+         href: rmarkdown6.html
+       - text: "2022 First Entrance"
+         href: rmarkdown7.html
+       - text: "2022 Second Entrance"
+         href: rmarkdown8.html
 output: distill::distill_article

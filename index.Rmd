@@ -13,19 +13,15 @@ output:
 site: distill::distill_website  
 ---
  
-## Description of Services
+## The Center for Testing and Evaluation (CTE)
 
-The Center for Testing & Evaluation’s primary responsibility is to administer entrance and placement exams and aptitude tests. The Center administers its entrance and placement exams to incoming undergraduate students and aptitude tests to incoming graduate students. At present, the CTE does not administer any national standardized examinations or international standardized examinations.
+Welcome to the Center for Testing and Evaluation of the University of Liberia. The Center strives to deliver quality-testing services conducive for candidate success to graduates and prospective students. Highly qualified testing professionals administer all tests and adhere to the recommended professional standards befitting local, national, and international best practices regarding public examinations. The staff makes every effort possible to maintain the validity and credibility of all exams by promoting a secure and stress-free testing environment for candidates. The privacy restrictions outlined by Moodle (the world’s most popular learning management system) also bound the Center.
 
 
-## Hours of Operation
+## Customer Service Declaration
 
-The Center for Testing & Evaluation at the UL is located on the Capitol Hill Campus in the Greenleaf Hall Building.
-- Regular Office Hours are: 8:00 AM to 4:00 PM from Monday – Friday
+At the University of Liberia Center for Testing and Evaluation, we treat each other and all visitors with a high degree of professionalism. Every part of our society plays a role in achieving the Center’s mission. Each individual and office contribute to the achievements of our common goals and the creation of a positive campus climate by being responsive, efficient, and effective. The Center is at the service of the nation.
 
-## Fees Charged by the CTE
-
-The University of Liberia Administration sets the testing program fees for candidates wanting to take the test or exam. The fees sets for the undergraduate candidate is three thousand Liberian Dollars (LD 3,000.00) while the graduate candidate’s fees is one hundred and fifty United States Dollars (US 150.00). The fee charged for a candidate who wishes to challenge the result of the exam is ten United States Dollars (USD 10.00)
 
 
 

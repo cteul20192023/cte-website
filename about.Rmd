@@ -1,10 +1,36 @@
 ---
-title: "About this site"
+title: "CTE Services"
 description: |
-  Some additional details about the website
+#Some additional details about the website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## Description of Services
+The Center for Testing & Evaluation’s primary responsibility is to administer entrance and placement exams and aptitude tests. The Center administers its entrance and placement exams to incoming undergraduate students and aptitude tests to incoming graduate students. At present, the CTE does not administer any national standardized examinations or international standardized examinations.
+
+## Hours of Operation
+
+The Center for Testing & Evaluation at the UL is located on the Capitol Hill Campus in the Greenleaf Hall Building.
+- Regular Office Hours are: 8:00 AM to 4:00 PM from Monday – Friday
+
+## Fees Charged by the CTE
+
+The University of Liberia Administration sets the testing program fees for candidates wanting to take the test or exam. The fees sets for the undergraduate candidate is three thousand Liberian Dollars (LD 3,000.00) while the graduate candidate’s fees is one hundred and fifty United States Dollars (US 150.00). The fee charged for a candidate who wishes to challenge the result of the exam is ten United States Dollars (USD 10.00)
+
+## CTE Staffing: Jobs Descriptions & Organogram
+
+### Chief Test Administrator–CTE Executive Director
+
+Chief Test Administrator is a professional and experienced educator who must hold at least a master’s degree in Statistics or related field and experience in educational administration, testing and counseling.    
+This person should be a full-time employee charged with the responsibility of managing the testing center and have working knowledge in computer information technology (troubleshooting, network software, web design, and data reporting) and all testing programs.
+
+This person is responsible for the overall supervision and management of the CTE. The Chief Test Administrator is responsible for policy implementation and administration of all testing programs and supervises all official testing centers. This person is the person with whom all testing programs have regular and direct contact regarding policies, procedures, and issues. All testing programs rely upon the Chief Test Administrator to ensure that all official testing centers in the jurisdiction conform to all testing program policies and procedures.
+
+## Deputy  Chief Test Administrator–Deputy Executive Director
+
+The Assistant Chief Test Administrator is a professional and experienced educator who must hold a master’s degree and have working knowledge in computer information technology (troubleshooting, network software, web design, and data reporting) and all testing programs. This person should be a full-time employee charged with responsibility for helping set up the test center with all testing program software. This person is responsible for the overall supervision of all the testing center’s computer systems. The Deputy Executive Director is CTE focal person on Computer-based Test Platform.
+The Deputy Executive Director shall assume all the duties and responsibilities of the Executive Director in the absence of the Executive Director.
+
 

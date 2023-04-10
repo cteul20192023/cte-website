@@ -1,0 +1,60 @@
+---
+title: "First Entrance 2022"
+#description: |
+#  A new article created using the Distill #format.
+#author:
+#  - name: Nora Jones 
+#    url: https://example.com/norajones
+#    affiliation: Spacely Sprockets
+#    affiliation_url: #https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# The 2022 First Entrance Results
+
+Assistant Prof. Moses Hinneh, Executive Director, Center for Testing and Evaluation (CTE), said the number of candidates who made a regular pass (those who passed all subjects successfully) was 5,053 candidates.
+Also announcing the results for the Graduate and Professional Schools aptitude tests, Assistant Prof. Calvin Alvin Gaye, Deputy Director, CTE, said a total of 1,058 candidates registered for the Graduate and Professional school aptitude tests.    
+
+
+In a summary, he said 300 candidates sat the Law School test, of whom there were 43 successful candidates, 257 unsuccessful candidates, and 15 candidates absent.
+For the Graduate School, he said 480 candidates sat the test, of whom 240 candidates were successful, and 240 candidates were unsuccessful.    
+
+For Medical School, he said 209 candidates sat the test, of whom there were 40 successful candidates and 169 unsuccessful candidates.    
+
+For the School of Pharmacy, he said 40 candidates sat the test, of whom there were nine successful candidates and 31 unsuccessful candidates.
+The University of Liberia also announces that registration for the second entrance for 2022 will start on 12 September and will end on 22 October 2022.
+
+Links to access the Entrance Results pdf files can be found below:   
+
+# Link for Graduate Schools
+
+ <https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1at9RiLIr-MdwTzS3-hkQNPcKbgquidRk7-VFtQuWgL4%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwAR3LeNmwgGep5pMb5Q7bGTOaWg5lrbroUdY_iar5HhvHKj9YWn1FYnwFWgY&h=AT3mzx9s9LydrVz9dAgG5ihP6eQflR1135GdaJyQFuXvRovUy9bXu_3ijWmIAUurRx61652Wf8TEF52zIfIKc8sjM8zyVQHQlUInxr-EoEn2c7XJvPKL5kjx3NugoLufwBeNgQVmmw&__tn__=-UK-R&c[0]=AT00ZUyjI0W8TmX3A2ZXvGEXcJoQ34u_-a22hoEko3jI4UTPrcCibDoCOKKwvcRAk1s13LEToQRT0dpCHqlE53UU3nCX9iO3UPlj3_FrabnVer-lSS3OljfPt5lAvDOdWgtdUmSoms5h6QIhOuYZnjVbPp2k_w>.
+
+# Link for  Law School
+
+<https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1yG2jGy_KAhmgVnni3wuxqrNcTyiUhJkHPEtB0ka1wiU%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwAR0pWffGwtCumvmF6vphq6RFmgdFivSaBElpbFssgFFNdNUZQUVmC4Pqj0g&h=AT11inZr3RiD0_CG6yo1r5ujhg5UOWLFK6vcD83XDXJYGfDvVwfR67_lpBDi_owL4NnCz-Z4bsDsocLqLed40JrVo1t9M6QfwsJsL3-xa_41quRWmoKkXR2ya3DNB6eoDDIVTceinw&__tn__=-UK-R&c[0]=AT00ZUyjI0W8TmX3A2ZXvGEXcJoQ34u_-a22hoEko3jI4UTPrcCibDoCOKKwvcRAk1s13LEToQRT0dpCHqlE53UU3nCX9iO3UPlj3_FrabnVer-lSS3OljfPt5lAvDOdWgtdUmSoms5h6QIhOuYZnjVbPp2k_w>
+
+# Link for the  Medical School
+
+<https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1_vNsDuUE_fznmF2pkNqlGyJeyr8ueQ7BquO0-NAv9WQ%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwAR0X4-SQv3xX2rVmia_eqj0POBJIXRnduA8bYDzck7gwqHR8diFbbi7ocDQ&h=AT1jeJMvbxIjsEQCxHw65nBD79T2AIpxSCKcmvIrjPcPBeo-xgCd_WkyiitE1rqQkAFYkUR6FOjHWiAzMV-418_hyfAZSelaB7Cz1j6Ua9_PLIX6Sr4xSn_o4rlOuWTXnkBuuCvE5g&__tn__=-UK-R&c[0]=AT00ZUyjI0W8TmX3A2ZXvGEXcJoQ34u_-a22hoEko3jI4UTPrcCibDoCOKKwvcRAk1s13LEToQRT0dpCHqlE53UU3nCX9iO3UPlj3_FrabnVer-lSS3OljfPt5lAvDOdWgtdUmSoms5h6QIhOuYZnjVbPp2k_w>
+
+# Link for the  School of Pharmacy 
+
+<https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1qbfWKvYqZxKG3xMBkRI8VNV4JJjOnwUEezqy-3GmJMs%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwAR0Gvbt2Il_INGMVjmusZ_RXq5FL2cy3r1Ubj2b1Yhy4EgBleHJzqa0J5-0&h=AT1rRscMaU6bb4UEWqEVLIEw4Tw9VkVGAeo_i4iXi1e3LxwiNCEwHo45F26ambKMiObyKQt7ge_GI3kr1nFmj2HEXDTHYRCtExm5izDRu4H4tDdLYNulU8tvfRYf0wpSg3WGE7ynFQ&__tn__=-UK-R&c[0]=AT3wNvIA9zBXyGtdCdLAob9UlPU_rsd_y0_QI1HyFxlMX4fAx7ACt3cFj8ZZVhoBqoTwJTjgY6OzCt9NkDTIKopIgss-xY1bJiuM1UF212nz5fNHBMeTLsUgcQ9jCC_dPt8q-DK4JQIN6F0gAaqBj-XshsgH8w>
+
+
+# Link for the Undergraduate Colleges
+
+<https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1VGGhTXDaQWRsR906Z4-M9WPJ3tRyBnWfY2OYllMYaCU%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwAR1rzpB7k8AgGE7VlAU9BI2Q4JpA6Blm06fQs0G5ZzMR6QzGGKdmm1K2SmU&h=AT0J6HTkQZqD6p3fXy3lGUfhj845819y4bAL3HPRn9ABgrcns-OKosS4jktgxCA9RhQoVbaSXwM7zRGTO4Ks5adw5v-ruI4VDtblVe6XNUi0ZL_NzXxpW_FDLZzEqnNI-8rz6SWVUw&__tn__=-UK-R&c[0]=AT3wNvIA9zBXyGtdCdLAob9UlPU_rsd_y0_QI1HyFxlMX4fAx7ACt3cFj8ZZVhoBqoTwJTjgY6OzCt9NkDTIKopIgss-xY1bJiuM1UF212nz5fNHBMeTLsUgcQ9jCC_dPt8q-DK4JQIN6F0gAaqBj-XshsgH8w>
+
+# Results Video Presentations 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O2DzUWjy-uE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
