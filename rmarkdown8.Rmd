@@ -1,7 +1,6 @@
 ---
 title: "Second Entrance 2022"
 #description: |
-#  A new article created using the Distill format.
 #author:
 #  - name: Nora Jones 
 #    url: https://example.com/norajones
@@ -18,6 +17,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 # The 2022 Second Entrance Results
 
 The University of Liberia has released the results for its Second Entrance and Placement Exam administered in November 2022, with a record 2,358 female candidates making successful passes for the Undergraduate category.    
@@ -71,11 +71,31 @@ Dr. Nelson explained that the current enrollment is more than 21,000, of whom ov
 “Though we are extremely excited as always, to welcome more and more new intakes, we must also ensure that other targeted variables are attained. It is our responsibility to attract the best and brightest students through these processes to ensure that the quality and standard of our brand remain high,” he added.    
 
 He continued that UL administrators are cognizant of the changing faculty-student ratio, and this is why faculty and staff development is a high priority.    
-
 The UL President stated that there is also a glaringly urgent need for infrastructure upgrade, maintenance, and construction of new facilities not just to respond to the increasing demand for affordable higher education in Liberia but also to deal with legacy issues on UL campuses.    
 
-# Link to access the Entrance Results Dashboard:    
-
- <https://l.facebook.com/l.php?u=https%3A%2F%2Frstudio-pubs-static.s3.amazonaws.com%2F997522_0f5730b119e645c9a3db087df413c799.html%3Ffbclid%3DIwAR0KHNrEv-rQOAsWC4UN7UapoBeLulaJ2zU_XmWSd5386oGtS5MbTtrZhDw%23exam-results&h=AT1I28J5x1A0p-qeN7w3aDJGh_q5SlL7pCRees_3lDq8DpUR0vwF_BcJFNoZRi9H0lq8VM4bhdMCQ-SPMuvsbFocl8YspYGDPnjelW4ksITuxvJXZFIoVNdsizXoL4I_77ZJfpe4FQ&__tn__=-UK-R&c[0]=AT1L_a6u6RqAkRxcRgGuLs7PuQxjaTq5dg1tnHTu2BE3GzkLnL0oG3gGlDp3phXQ5muDanpPimzI5PqIyg2wvZm-x1MCBhyX6zhxQfxmleSqljg7J_n0L3TQHJ769fxYmKkdFPK5uqDhWA80kIBvUtRTE-iEHbIQQttV2uI5UISgPfAJ2csi-aV25SUTPZGzkrtGoGE-_Y-Z>.
 
 
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #7aa8b7;
+        border-radius: 6px;
+        outline: none;
+        transition: 0.3s;
+      }
+      .button:hover {
+        background-color: #c2c7c7;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://l.facebook.com/l.php?u=https%3A%2F%2Frstudio-pubs-static.s3.amazonaws.com%2F997522_0f5730b119e645c9a3db087df413c799.html%3Ffbclid%3DIwAR0KHNrEv-rQOAsWC4UN7UapoBeLulaJ2zU_XmWSd5386oGtS5MbTtrZhDw%23exam-results&h=AT1I28J5x1A0p-qeN7w3aDJGh_q5SlL7pCRees_3lDq8DpUR0vwF_BcJFNoZRi9H0lq8VM4bhdMCQ-SPMuvsbFocl8YspYGDPnjelW4ksITuxvJXZFIoVNdsizXoL4I_77ZJfpe4FQ&__tn__=-UK-R&c[0]=AT1L_a6u6RqAkRxcRgGuLs7PuQxjaTq5dg1tnHTu2BE3GzkLnL0oG3gGlDp3phXQ5muDanpPimzI5PqIyg2wvZm-x1MCBhyX6zhxQfxmleSqljg7J_n0L3TQHJ769fxYmKkdFPK5uqDhWA80kIBvUtRTE-iEHbIQQttV2uI5UISgPfAJ2csi-aV25SUTPZGzkrtGoGE-_Y-Z">Click Here For The 2022 Second Entrance Results</a>
+  </body>
+</html>

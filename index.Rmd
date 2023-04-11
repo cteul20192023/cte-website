@@ -3,11 +3,11 @@ title: "CTE"
 image: "images/cte.jpg"
 links:
   - label: '<i class = "fab fa-facebook"></i>Facebook'
-    url: 'https://facebook.com.com/ target= "_blank"'
-  - label: '<i class = "fab fa-twitter"></i>Twitter'
-    url: 'https://twitter.com/ target= "_blank"'
+    url: 'https://web.facebook.com/testingcenterul/ target= "_blank"'
   - label: '<i class = "fab fa-github"></i>GitHub'
     url: 'https://github.com/ target= "_blank"'
+  - label: '<i class = "fab fa-email"></i>Email'
+    url: 'mailto:cteul20192023@gmail.com target= "_blank"'
 output:
   postcards::trestles
 site: distill::distill_website  
@@ -23,5 +23,15 @@ Welcome to the Center for Testing and Evaluation of the University of Liberia. T
 At the University of Liberia Center for Testing and Evaluation, we treat each other and all visitors with a high degree of professionalism. Every part of our society plays a role in achieving the Center’s mission. Each individual and office contribute to the achievements of our common goals and the creation of a positive campus climate by being responsive, efficient, and effective. The Center is at the service of the nation.
 
 
+<html>
+<body>
 
+<h2>Second Entrance 2022</h2>
+
+<p>Click the button to go to the Entrance Results.</p>
+
+<button onclick="document.location='https://l.facebook.com/l.php?u=https%3A%2F%2Frstudio-pubs-static.s3.amazonaws.com%2F997522_0f5730b119e645c9a3db087df413c799.html%3Ffbclid%3DIwAR0KHNrEv-rQOAsWC4UN7UapoBeLulaJ2zU_XmWSd5386oGtS5MbTtrZhDw%23exam-results&h=AT1I28J5x1A0p-qeN7w3aDJGh_q5SlL7pCRees_3lDq8DpUR0vwF_BcJFNoZRi9H0lq8VM4bhdMCQ-SPMuvsbFocl8YspYGDPnjelW4ksITuxvJXZFIoVNdsizXoL4I_77ZJfpe4FQ&__tn__=-UK-R&c[0]=AT1L_a6u6RqAkRxcRgGuLs7PuQxjaTq5dg1tnHTu2BE3GzkLnL0oG3gGlDp3phXQ5muDanpPimzI5PqIyg2wvZm-x1MCBhyX6zhxQfxmleSqljg7J_n0L3TQHJ769fxYmKkdFPK5uqDhWA80kIBvUtRTE-iEHbIQQttV2uI5UISgPfAJ2csi-aV25SUTPZGzkrtGoGE-_Y-Z'">Second Entrance 2022</button>
+
+</body>
+</html>
 
