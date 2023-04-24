@@ -18,7 +18,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-# The 2022 First Entrance Results
+### The 2022 First Entrance Results
 
 Assistant Prof. Moses Hinneh, Executive Director, Center for Testing and Evaluation (CTE), said the number of candidates who made a regular pass (those who passed all subjects successfully) was 5,053 candidates.
 Also announcing the results for the Graduate and Professional Schools aptitude tests, Assistant Prof. Calvin Alvin Gaye, Deputy Director, CTE, said a total of 1,058 candidates registered for the Graduate and Professional school aptitude tests.    
@@ -32,7 +32,7 @@ For Medical School, he said 209 candidates sat the test, of whom there were 40 s
 For the School of Pharmacy, he said 40 candidates sat the test, of whom there were nine successful candidates and 31 unsuccessful candidates.
 The University of Liberia also announces that registration for the second entrance for 2022 will start on 12 September and will end on 22 October 2022.
 
-# Links For The Results
+### Links For The Results
 
 <html>
   <head>
@@ -60,7 +60,7 @@ The University of Liberia also announces that registration for the second entran
 </html>
 
 
-## The Law School Results
+### The Law School Results
 
 <html>
   <head>
@@ -89,7 +89,7 @@ The University of Liberia also announces that registration for the second entran
 
 
 
-## The  Medical School
+### The  Medical School
 
 <html>
   <head>
@@ -117,7 +117,7 @@ The University of Liberia also announces that registration for the second entran
 </html>
 
 
-## The  School of Pharmacy 
+### The  School of Pharmacy 
 
 
 <html>
@@ -145,7 +145,7 @@ The University of Liberia also announces that registration for the second entran
   </body>
 </html>
 
-## The Undergraduate Colleges
+### The Undergraduate Colleges
 
 <html>
   <head>
@@ -177,6 +177,6 @@ The University of Liberia also announces that registration for the second entran
 
 
 
-# Results Video Presentations 
+### Results Video Presentations 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O2DzUWjy-uE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

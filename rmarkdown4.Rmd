@@ -1,12 +1,11 @@
 ---
-title: "Untitled"
+title: "Second Entrance 2020"
 #description: |
-#  A new article created using the Distill format.
 #author:
 #  - name: Nora Jones 
 #    url: https://example.com/norajones
 #    affiliation: Spacely Sprockets
-#    affiliation_url: https://example.com/spacelysprokets
+#    affiliation_url: #https://example.com/spacelysprokets
 date: "`r Sys.Date()`"
 output: 
   distill::distill_article:
@@ -19,5 +18,36 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+### The 2020 Second Entrance Official Results
+
+The Center for Testing and Evaluation (CTE) of the University of Liberia reports that from the total of five thousand, two hundred nineteen (5,219 or 97.64%) candidates who wrote the Exams, two thousand, two hundred eighty-five (2,285 or 43.78%) candidates passed regularly, three hundred fifty-one (351 or 6.73%) candidates passed Provisionally while two thousand, five hundred fourty-five (2,545 or 48.76% ) candidates were unsuccessful. 
+Thirty-eight (38 or 0.73%) candidates wrongly shaded their Exam numbers.
 
 
+
+
+
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #7aa8b7;
+        border-radius: 6px;
+        outline: none;
+        transition: 0.3s;
+      }
+      .button:hover {
+        background-color: #c2c7c7;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1vVf0OF_NgV13tb-ACNKeyp3CsMLJ3gNo%3Fusp%3Dsharing%26fbclid%3DIwAR2OosIZGrGx_URyO_Mrh-0csd49D7c0O4XICmRdmeDuzOgaGfuSgznh4eo&h=AT1mCBoMepb9LXoc9jMNa3_uT6leMnB4l32SdP0MWwruBgVRB4NVi_BfRI0uo0effv9JQch7LU4DdQQ55bprAhUW5bD4UXR3xPLa8d5nIBExIASxAylqaP-vld7ctC-IaSO6OIV7Dw&__tn__=-UK-R&c[0]=AT1grAw2mC0Vwk0GSkz9qroGbTf55JN2NMKAqSPfQw0J8_XShwZ1O0DmpJg8B_LUdm-p8ImtleHiPt9uE6NNkgUTl4zplMx9xrJpuxktWOwupI5aF9h2KwYvHYz85GcXmyHjn_jYR_TtwGD1haStD9zfrkaJ5A">Click Here For The 2020 Second Entrance Results</a>
+  </body>
+</html>

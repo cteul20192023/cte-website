@@ -13,11 +13,11 @@ output:
 site: distill::distill_website  
 ---
  
-## The Center for Testing and Evaluation (CTE)
+### The Center for Testing and Evaluation (CTE)
 
 Welcome to the Center for Testing and Evaluation of the University of Liberia. The Center strives to deliver quality-testing services conducive for candidate success to graduates and prospective students. Highly qualified testing professionals administer all tests and adhere to the recommended professional standards befitting local, national, and international best practices regarding public examinations. The staff makes every effort possible to maintain the validity and credibility of all exams by promoting a secure and stress-free testing environment for candidates. The privacy restrictions outlined by Moodle (the world’s most popular learning management system) also bound the Center.
 
 
-## Customer Service Declaration
+### Customer Service Declaration
 
 At the University of Liberia Center for Testing and Evaluation, we treat each other and all visitors with a high degree of professionalism. Every part of our society plays a role in achieving the Center’s mission. Each individual and office contribute to the achievements of our common goals and the creation of a positive campus climate by being responsive, efficient, and effective. The Center is at the service of the nation.

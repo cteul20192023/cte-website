@@ -1,12 +1,11 @@
 ---
-title: "Untitled"
+title: "First Entrance 2020"
 #description: |
-#  A new article created using the Distill format.
 #author:
 #  - name: Nora Jones 
 #    url: https://example.com/norajones
 #    affiliation: Spacely Sprockets
-#    affiliation_url: https://example.com/spacelysprokets
+#    affiliation_url: #https://example.com/spacelysprokets
 date: "`r Sys.Date()`"
 output: 
   distill::distill_article:
@@ -19,3 +18,31 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+### The 2020 First Entrance Results
+
+
+
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #7aa8b7;
+        border-radius: 6px;
+        outline: none;
+        transition: 0.3s;
+      }
+      .button:hover {
+        background-color: #c2c7c7;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://rstudio-pubs-static.s3.amazonaws.com/1032885_fa9ef987d28c4a96aea3e6d75935295c.html?fbclid=IwAR1P9bdfOiuOqPyZKCHGTnaf0PxNPAA37DzLL0omD642QwxKxkclF3R4yCI">Click Here For The 2020 First Entrance Results</a>
+  </body>
+</html>

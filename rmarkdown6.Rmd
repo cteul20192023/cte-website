@@ -1,12 +1,11 @@
 ---
-title: "Untitled"
+title: "Second Entrance 2021"
 #description: |
-#  A new article created using the Distill format.
 #author:
 #  - name: Nora Jones 
 #    url: https://example.com/norajones
 #    affiliation: Spacely Sprockets
-#    affiliation_url: https://example.com/spacelysprokets
+#    affiliation_url: #https://example.com/spacelysprokets
 date: "`r Sys.Date()`"
 output: 
   distill::distill_article:
@@ -19,3 +18,130 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+### The 2021 Second Entrance Results
+
+The Center for Testing and Evaluation (CTE) at the University of Liberia has released the results of the Second Entrance and Placement Exams administered on July 31 and August 7, 14 and 21, 2021 for Undergraduate and Graduate programs, respectively.
+The comprehensive results of each category of the exam can be accessed via the following links:
+
+
+### The Graduate Schools Results
+
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #7aa8b7;
+        border-radius: 6px;
+        outline: none;
+        transition: 0.3s;
+      }
+      .button:hover {
+        background-color: #c2c7c7;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1YX_cedj8SfDRggIvYFfXRqCDAZY8VMLYug7omM_92u0%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwAR3BRtrEmMHfIVHGJObClC9po-FD2Ifcstc5XG2M-S21z4gRlXdUnK-WHaE&h=AT1Wxx7CpbQpQEq5QE4IX7ofUyPpDH1XbnUpW2lcb14OSVnrDphN-ASJCYSqqAm5Rcg4Gui0Hc5lYyG6Q6ASsCn_S61efI6fKglEJ4bhFqqKXWDfgJiTzSo_A_oFepwREuAdvnHgQA&__tn__=-UK-R&c[0]=AT2tTjQXDxhqTuuMmL6oJBi0asGvAl-uTk2Crk1ZX2FvrGYoJ79WBwH9-qTlrWdznl62gU0dU4qIgqg7ughIGm-VAVECg7QCosYLLTcTy_ydEL0KDORNgIkRLRuUolMRsO_QyjRt_cg5gG3mX61ZRvsOAn-TOg">Click Here For The Graduate Schools Results</a>
+  </body>
+</html>
+
+
+### The Law School Results
+
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #7aa8b7;
+        border-radius: 6px;
+        outline: none;
+        transition: 0.3s;
+      }
+      .button:hover {
+        background-color: #c2c7c7;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1QTkCNtXo5btvmSEJ0PQSeae0P_PXO4OKDRVLc8rp89I%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwAR1KBMd_WN64d5Fn99Va8ZmDQ-ZmzeR_uxQqjoe-5YcvJhqkc7s8TjW8Oys&h=AT2lOPchWDbxSmQdOm6Lr7wLeIuc0wkGzr_xxPBGdQx1-x2edCGGnvBNFlmUMVn1CJyULJWoXWESNje58Yqb31n_qKzvkzy67TN5hpqFca06qAB7upd10A9vnFme6OFyK37-wQnk5A&__tn__=-UK-R&c[0]=AT2tTjQXDxhqTuuMmL6oJBi0asGvAl-uTk2Crk1ZX2FvrGYoJ79WBwH9-qTlrWdznl62gU0dU4qIgqg7ughIGm-VAVECg7QCosYLLTcTy_ydEL0KDORNgIkRLRuUolMRsO_QyjRt_cg5gG3mX61ZRvsOAn-TOg">Click Here For The Law School Results</a>
+  </body>
+</html>
+
+
+
+### The  School of Pharmacy 
+
+
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #7aa8b7;
+        border-radius: 6px;
+        outline: none;
+        transition: 0.3s;
+      }
+      .button:hover {
+        background-color: #c2c7c7;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1XPSQRSa-vCl43BYoaEaE2eR3OdzFNZeB--GDCbkzCD4%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwAR3Y_XMRQi8MWctiMsFVa6ulXvA1j1JNl4tbN5Ttk01WLOoh3F8wLx_QYcA&h=AT1jgeUwMEk1_BbGkmV2Xk1EWBvN9ZE-bETSGR90EtBNtf7ujaXIJmwSnthGbYFjnmbEy6tO4myKqm40Bqe6m1fDKp9OdpBcjbpMV8PCvSC6zhYDbnQUBuk05vzGRDyeZarJrE0kKQ&__tn__=-UK-R&c[0]=AT2tTjQXDxhqTuuMmL6oJBi0asGvAl-uTk2Crk1ZX2FvrGYoJ79WBwH9-qTlrWdznl62gU0dU4qIgqg7ughIGm-VAVECg7QCosYLLTcTy_ydEL0KDORNgIkRLRuUolMRsO_QyjRt_cg5gG3mX61ZRvsOAn-TOg">Click Here For School of Pharmacy Results</a>
+  </body>
+</html>
+
+### The Undergraduate Colleges
+
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      .button {
+        display: inline-block;
+        padding-left:10px;
+        padding-right:10px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #7aa8b7;
+        border-radius: 6px;
+        outline: none;
+        transition: 0.3s;
+      }
+      .button:hover {
+        background-color: #c2c7c7;
+      }
+      .button {width: 350px;}
+      
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1oC5ACr-cAShEPK1cfJxzCUGJNPLXV_GuwmKncWVhvww%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwAR32X_PiG2tPQRskUiKbHrTMJF5C_SHyU9iJVdu9qJ1IDd16yB5Bt9FemGs&h=AT1x5Pns1lU4JjYsciZmuHUoGlqlatN2IKNGCnV5oaIubc8VKLr5Yijtaf-rNrRqBi-0p2joAt9ZWUdGOnn_MlSbBGkmobzQsGzF3YULqWi0cyHeoGqyKnjsipx6G383mxMiBAjC_A&__tn__=-UK-R&c[0]=AT2tTjQXDxhqTuuMmL6oJBi0asGvAl-uTk2Crk1ZX2FvrGYoJ79WBwH9-qTlrWdznl62gU0dU4qIgqg7ughIGm-VAVECg7QCosYLLTcTy_ydEL0KDORNgIkRLRuUolMRsO_QyjRt_cg5gG3mX61ZRvsOAn-TOg">Click Here For The Undergraduate Results</a>
+  </body>
+</html>
+
+
+
+
+### Results Video Presentation 
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fweb.facebook.com%2Ftheuniversityofliberia%2Fvideos%2F897294727861370%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>

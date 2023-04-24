@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "2019 First Entrance Results"
 #description: |
 #  A new article created using the Distill format.
 #author:
@@ -18,3 +18,37 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+### 2019 First Entrance Results
+
+Unfortunately, the results will perfectly be accessed on a 15-inch computer or above. We will update it to be accessed by phones and tablets.
+
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      .button {
+        display: inline-block;
+        padding-left:10px;
+        padding-right:10px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #7aa8b7;
+        border-radius: 6px;
+        outline: none;
+        transition: 0.3s;
+      }
+      .button:hover {
+        background-color: #c2c7c7;
+      }
+      .button {width: 350px;}
+      
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://rstudio-pubs-static.s3.amazonaws.com/499051_7320be7a7b654438a138544d15b3d387.html?fbclid=IwAR1IyJI2zeyUQ25zPwofuui6x5RjBk8Iq7-igVm1_plM3XSTUiAUpO9p8v8">Click To Access The Results</a>
+  </body>
+</html>
+
+
