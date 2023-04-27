@@ -30,31 +30,6 @@ This person is responsible for the overall supervision and management of the CTE
 
 
 
-<html>
-  <head>
-    <title>CTE ED Profile</title>
-    <style>
-      .button {
-        display: inline-block;
-        padding: 10px 20px;
-        text-align: center;
-        text-decoration: none;
-        color: #ffffff;
-        background-color: #7aa8b7;
-        border-radius: 6px;
-        outline: none;
-        transition: 0.3s;
-      }
-      .button:hover {
-        background-color: #c2c7c7;
-      }
-    </style>
-  </head>
-  <body>
-    <a class="button" href="https://cteul20192023.github.io/HinnehProfile/#portfolio">Click The Executive Director Profile</a>
-  </body>
-</html>
-
 ## Deputy  Chief Test Administrator–Deputy Executive Director
 
 The Assistant Chief Test Administrator is a professional and experienced educator who must hold a master’s degree and have working knowledge in computer information technology (troubleshooting, network software, web design, and data reporting) and all testing programs. This person should be a full-time employee charged with responsibility for helping set up the test center with all testing program software. This person is responsible for the overall supervision of all the testing center’s computer systems. The Deputy Executive Director is CTE focal person on Computer-based Test Platform.
