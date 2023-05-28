@@ -8,6 +8,20 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "Exam Numbers"
+      menu: 
+       - text: "Undergraduate Colleges"
+         href: undergrads.html
+       - text: "Graduate Schools"
+         href: graduate.html
+       - text: "Law School"
+         href: lawschool.html
+       - text: "Medical School"
+         href: medicalschool.html
+       - text: "School of Pharmacy"
+         href: pharmacy.html
+       - text: "Straz Sinje"
+         href: sinje.html
     - text: "Entrance Results"
       menu: 
        - text: "2019 First Entrance"
@@ -26,4 +40,6 @@ navbar:
          href: rmarkdown7.html
        - text: "2022 Second Entrance"
          href: rmarkdown8.html
+       - text: "2023 First Entrance"
+         href: rmarkdown9.html
 output: distill::distill_article
