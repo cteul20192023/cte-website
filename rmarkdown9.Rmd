@@ -2,10 +2,10 @@
 title: "First Entrance Results 2023"
 description: |
   Type in your **Exam Number** (the identical number used when writing the Entrance Exams or the Aptitude Test) to get your Results. 
-  **NOTE**: Exam Results  will be available **THIRTY WORKING DAYS** after the UNDERGRADUATE COLLEGES Entrance Exams.
+  **NOTE**: Exam Results will be available **THIRTY WORKING DAYS** after the UNDERGRADUATE COLLEGES Entrance Exams.
+
 author:
-  - name: CTE Jones 
-    - name: CTE UL 
+  - name: CTE UL 
   
    
 date: "`r Sys.Date()`"
