@@ -1,20 +1,38 @@
 ---
 title: "The Law School"
 description: |
-  Type in your **Mobile Phone Number** (the identical number used when filling the registration form) to get your Exam or Aptitude Test Number, the name of the Campus on which you will write your Aptitude Test, and the Room Number in which you will sit to write the Aptitude Test.
+  Type in your **Name** (the identical name used when filling the registration form) to get your Exam or Aptitude Test Number, the name of the Campus on which you will write your Aptitude Test, and the Room Number in which you will sit to write the Aptitude Test.
   **NOTE**: Exam Numbers will be available **three working days** after registration.
-author:
-  - name: CTE UL 
+#author:
+#  - name: CTE UL 
   
    
 date: "`r Sys.Date()`"
-output: distill::distill_article
+#output: distill::distill_article
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-
-
+<html>
+  <head>
+    <title>Title of the document</title>
+    <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #7aa8b7;
+        border-radius: 6px;
+        outline: none;
+        transition: 0.3s;
+      }
+      .button:hover {
+        background-color: #c2c7c7;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="button" href="https://rstudio-pubs-static.s3.amazonaws.com/1053723_6fe32e96284342939057d7e1c6cdd9b4.html?fbclid=IwAR2Yb6yL9bhXkVJ54KzKDYWCgBaoo9Hqakcvb41xdGevruFklFNcOO9H3P0#introduction">Click Here For The 2023 Exam Numbers</a>
+  </body>
+</html>
 
